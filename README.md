@@ -1,10 +1,16 @@
 # Real-Time-Bus-Tracker
-Real time bus tracker
+## Follows Bus 1 of the MBTA in real time.
+## Centered map and created heading descibing bus colors purpose.
 
 # Usage
+## Follow Bus 1 of MBTA
 
-# Future Ideas
-
+# Future Improvements
+<ul> 
+    <li>Add MBTA Logo</li> 
+    <li>Change background color</li>
+    <li>Incorporate colors from MBTA official website</li>
+    
 # License
 ## MIT License
 Copyright © 2022 Michael Ross
