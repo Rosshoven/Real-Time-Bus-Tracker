@@ -34,16 +34,6 @@
             setTimeout(addMarkers, 15000);
         }
         
-        // async function run(){
-        //     // get bus data    
-        // 	const locations = await getBusLocations();
-        // 	console.log(new Date());
-        // 	console.log(locations);
-        
-        // 	// timer
-        // 	setTimeout(run, 15000);
-        // }
-        
         // Request bus data from MBTA
         async function getBusLocations(){
             var url = 'https://api-v3.mbta.com/vehicles?api_key=ca34f7b7ac8a445287cab52fb451030a&filter[route]=1&include=trip';	
@@ -71,9 +61,9 @@
         function getIcon(bus){
             // select icon based on bus direction
             if (bus.attributes.direction_id === 0) {
-                return 'red.png';
+                return './Images/red.png';
             }
-            return 'blue.png';	
+            return './Images/blue.png';	
         }
         
         function moveMarker(marker,bus) {
