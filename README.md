@@ -1,6 +1,6 @@
 # Real-Time-Bus-Tracker
 ## Follows Bus 1 of the MBTA in real time.
-## Centered map and created heading descibing bus colors purpose.
+## Centered map and created heading describing bus colors purpose.
 
 # Usage
 ## Follow Bus 1 of MBTA
