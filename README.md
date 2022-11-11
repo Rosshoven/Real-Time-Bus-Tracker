@@ -10,6 +10,7 @@
     <li>Add MBTA Logo</li> 
     <li>Change background color</li>
     <li>Incorporate colors from MBTA official website</li>
+</ul>    
     
 # License
 ## MIT License
