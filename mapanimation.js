@@ -62,9 +62,9 @@
         function getIcon(bus){
             // select icon based on bus direction
             if (bus.attributes.direction_id === 0) {
-                return 'red.png';
+                return './Images/red.png';
             }
-            return 'blue.png';	
+            return './Images/blue.png';	
         }
         
         function moveMarker(marker,bus) {
