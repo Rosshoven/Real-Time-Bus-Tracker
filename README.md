@@ -1,7 +1,7 @@
 # Real-Time-Bus-Tracker
 ## Follows Bus 1 of the MBTA in real time.
 ## Map is centered and responsive.
-<img style="border-radius: 50%;" src="./Images/MBTA-Logo.jpg" width='300'/>
+<img src="./Images/MBTA-Logo.jpg" width='300'/>
 
 # Usage
 ## Open index.html file
