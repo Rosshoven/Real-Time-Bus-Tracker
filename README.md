@@ -4,7 +4,8 @@
 <img src="./Images/MBTA-Logo.jpg" width='300'/>
 
 # Usage
-## Open index.html file
+## API key required to make this page function.
+## Openindex.html file for skeleton of what it looks like.
 
 # Future Improvements
 <ol> 
