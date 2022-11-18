@@ -1,17 +1,17 @@
 # Real-Time-Bus-Tracker
 ## Follows Bus 1 of the MBTA in real time.
-## Centered map and created heading describing bus colors purpose.
-## Map is responsive.
+## Map is centered and responsive.
+<img src="./Images/MBTA-Logo.jpg" width='300'/>
 
 # Usage
-## Follow Bus 1 of MBTA
+## Open index.html file
 
 # Future Improvements
-<ul> 
+<ol> 
     <li>Add MBTA Logo</li> 
     <li>Change background color</li>
     <li>Incorporate colors from MBTA official website</li>
-</ul>    
+</ol>    
     
 # License
 ## MIT License
