@@ -8,7 +8,7 @@
 
 # Future Improvements
 <ol> 
-    <li>Add MBTA Logo</li> 
+    <li>Add MBTA Logo to page</li> 
     <li>Change background color</li>
     <li>Incorporate colors from MBTA official website</li>
 </ol>    
